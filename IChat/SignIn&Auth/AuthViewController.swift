@@ -10,6 +10,8 @@ import UIKit
 
 class AuthViewController: UIViewController {
     
+
+
     let logoImageView = UIImageView(image: #imageLiteral(resourceName: "Logo"), contentMode: .scaleAspectFit)
     let signUPVC = SignUpViewController()
     let loginVC = LoginViewController()
